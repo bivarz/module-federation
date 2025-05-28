@@ -1,0 +1,18 @@
+.header {
+  background-color: #424242;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  position: relative;
+  bottom: 0;
+  font-size: 14px;
+}
+
+.header a {
+  color: #61dafb;
+  text-decoration: none;
+}
+
+.header a:hover {
+  text-decoration: underline;
+}
