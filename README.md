@@ -371,6 +371,11 @@ When deploying to production:
 5. **Monitor performance** of remote loading
 6. **Version management** strategy for shared dependencies
 
+## 🚀 Image
+
+![image](https://github.com/user-attachments/assets/c7fb28d8-82a4-496a-94cb-a30552432e18)
+
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
