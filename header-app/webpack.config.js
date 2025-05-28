@@ -2,8 +2,9 @@ const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const { ModuleFederationPlugin } = require("webpack").container;
+const { withZephyr } = require("zephyr-webpack-plugin");
 
-module.exports = {
+module.exports = withZephyr()({
   entry: "./src/index.tsx",
   output: {
     path: path.resolve(__dirname, "dist"),
@@ -58,4 +59,4 @@ module.exports = {
       filename: "[name].[contenthash].css",
     }),
   ],
-};
+});
