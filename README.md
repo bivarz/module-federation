@@ -373,7 +373,8 @@ When deploying to production:
 
 ## 🚀 Image
 
-![image](https://github.com/user-attachments/assets/c7fb28d8-82a4-496a-94cb-a30552432e18)
+![Captura de tela 2025-05-28 154311](https://github.com/user-attachments/assets/fc20f919-e593-46c4-b567-a6a9c63e52de)
+
 
 
 ## 📝 License
